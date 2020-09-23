@@ -1,0 +1,10 @@
+[
+  {
+    "name": "Conseil en architecture et modularisation",
+    "description": "Pour survivre et croître, une entreprise doit être opportuniste et s'adapter, jusqu'à parfois pivoter. Seulement, le système d'information ne suit pas toujours, du fait de couplages forts mais heureusement évitables. Le Domain Driven Design (DDD) nous indique que l'observation fine des métiers de l'entreprise et des variations de langages sont autant d'indices clés pour découpler un SI, même si d'autres heuristiques sont utiles. Les missions de conseil en DDD sont généralement courtes (une dizaine de jours) et reposent sur l'interview des acteurs-clé du business. Une fois les premiers contours identifiés, il devient possible de focaliser son effort sur un module avec le confort de travailler en isolation (cohésion forte / couplage faible). Les répercusions de ce travail de modularisation sont visibles aussi bien dans l'architecture que dans l'organisation des équipes de développement."
+  },
+  {
+    "name": "Formation & Coaching technique",
+    "description": "Pour initier le changement, rien de mieux que la formation : je peux intervenir pour former vos équipes aux principaux sujets du craft (clean code, programmation fonctionnelle, TDD, BDD, DDD, refactoring...) dans vos locaux ou à distance. Toutefois, la formation n'est jamais qu'une étincelle, et la marche peut se révéler haute au moment de passer de la théorie à la pratique. Le changement prend du temps et occasionne de nombreux doutes. En tant que coach technique, je peux vous aider à identifier et lever les points de friction rencontrés dans vos projets, quels que soient les paradigmes et langages que vous utilisez. En un sens, l'approche du coach technique est semblable à celle d'un médecin : un médecin du code et des équipes."
+  }
+]
