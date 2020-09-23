@@ -1,0 +1,67 @@
+[
+  {
+    "category": "Méthodologies",
+    "skills": [
+      "TDD",
+      "BDD",
+      "DDD",
+      "Golden Master",
+      "Mikado method",
+      "XP",
+      "Kanban",
+      "Scrum"
+    ]
+  },
+  {
+    "category": "Architectures",
+    "skills": [
+      "SPA",
+      "PWA",
+      "Microservices / Modular Monolith",
+      "Hexagonal architecture"
+    ]
+  },
+  {
+    "category": "Paradigmes",
+    "skills": ["Functional programming", "Reactive programming", "OOP"]
+  },
+  {
+    "category": "Testabilité",
+    "skills": [
+      "Jest",
+      "Enzyme",
+      "Cucumber",
+      "JSVerify (property-based testing)",
+      "Stryker (mutation testing)",
+      "TestCafé (e2e)"
+    ]
+  },
+  {
+    "category": "Langages",
+    "skills": ["JavaScript", "TypeScript", "RxJS/xstream"]
+  },
+  {
+    "category": "Front-end",
+    "skills": ["React", "Redux", "Gatsby", "OOCSS", "BEM", "SASS", "Bulma"]
+  },
+  {
+    "category": "Back-end",
+    "skills": [
+      "Node",
+      "Express",
+      "GraphQL",
+      "PostgreSQL",
+      "MongoDB",
+      "ElasticSearch",
+      "Docker"
+    ]
+  },
+  {
+    "category": "Sécurité",
+    "skills": ["OAuth 2.0 implicit flow", "OpenID Connect", "JWT"]
+  },
+  {
+    "category": "Misc.",
+    "skills": ["Android", "Kotlin", "Electron"]
+  }
+]
