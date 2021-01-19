@@ -19,13 +19,8 @@ export default function Home() {
       <section className="content" id="page-title">
         <PageTitle
           title="Mathieu Eveillard 👋"
-          headline={
-            "Polytechnicien (X04). 12 ans d’expérience. Consultant en architecture logicielle."
-          }
+          headline="Polytechnicien (X04). 12 ans d’expérience. Consultant en architecture logicielle."
         />
-      </section>
-      <section className="content" id="social-feed">
-        <SocialFeed networks={SocialNetworksData} />
       </section>
       <section className="content" id="introduction">
         <div className="columns">
@@ -52,6 +47,9 @@ export default function Home() {
             <Testimonials testimonials={TestimonialsData} />
           </div>
         </div>
+      </section>
+      <section className="content" id="social-feed">
+        <SocialFeed networks={SocialNetworksData} />
       </section>
       <section className="content" id="contact">
         <div>
