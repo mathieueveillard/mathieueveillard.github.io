@@ -6,7 +6,7 @@ export default function SocialFeed({ networks }) {
     <ul>
       {networks.map((network, index) => (
         <React.Fragment key={network.url}>
-          {index > 0 && "∙"}
+          {index > 0 && " ∙ "}
           <SocialFeedItem network={network} />
         </React.Fragment>
       ))}
